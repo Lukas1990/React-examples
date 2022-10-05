@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c366d598.css",
+    "main.js": "/static/js/main.819003c3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.46fdbd2d897f8824e63c.woff",
+    "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+    "static/media/SourceSansPro-Bold.woff": "/static/media/SourceSansPro-Bold.5804d5f157f81d9a70b5.woff",
+    "static/media/SourceSansPro-Regular.woff": "/static/media/SourceSansPro-Regular.fd3e308dfde019e16ebf.woff",
+    "static/media/partly_cloudy.gif": "/static/media/partly_cloudy.dadc340c230f2f55bc0c.gif",
+    "static/media/snow.gif": "/static/media/snow.35e9f6516cbb84998953.gif",
+    "static/media/temperature.gif": "/static/media/temperature.25c92f74f93c7dd96f0b.gif",
+    "static/media/wind.gif": "/static/media/wind.ae8320e513f4a970d950.gif",
+    "static/media/rain.gif": "/static/media/rain.a2d674ae4810fc884b28.gif",
+    "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.1069ea55beaa01060302.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1008b5226941c24f4468.woff2",
+    "static/media/flag.svg": "/static/media/flag.607c1d911dd58c93f5e3.svg",
+    "static/media/search-input-close.svg": "/static/media/search-input-close.aa7a97f9e0ef6dda5d31.svg",
+    "static/media/loupe.svg": "/static/media/loupe.03d0dbd730c3096601c8.svg",
+    "static/media/alarm_black.svg": "/static/media/alarm_black.84933f7e365ba51f9970a86a2b23321c.svg",
+    "static/media/alarm_white.svg": "/static/media/alarm_white.0cbe5f117c692221a4417def3efa91cb.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.99c2b9dc209d4719692b.svg",
+    "static/media/warning.svg": "/static/media/warning.e4c75d746c8773b09e15.svg",
+    "static/media/navigation-arrow-mobile.svg": "/static/media/navigation-arrow-mobile.5dcce81efb819c9488a2.svg",
+    "static/media/menu.svg": "/static/media/menu.1df07d9568b66c4c6458.svg",
+    "static/media/navigation-arrow.svg": "/static/media/navigation-arrow.cb53990ce9c756c8d233.svg",
+    "main.c366d598.css.map": "/static/css/main.c366d598.css.map",
+    "main.819003c3.js.map": "/static/js/main.819003c3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c366d598.css",
+    "static/js/main.819003c3.js"
+  ]
+}
